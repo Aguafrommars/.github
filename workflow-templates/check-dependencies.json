@@ -1,0 +1,11 @@
+{
+    "name": "Update Dependencies Workflow",
+    "description": "Update Dependencies Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        ".Net"
+    ],
+    "filePatterns": [
+        "^update-dependencies.ps1$"
+    ]
+}
